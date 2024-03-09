@@ -25,7 +25,7 @@ bash track.sh
 📢 saya tidak bertanggung jawab atas segala sesuatu yang merugikan pihak lain maupun didunia atau akhirat 
 
 # Download Token
-<li><code>Download<a href="https://sfl.gl/cSCnPtl">Token</a></code></li> 
+<li><code>Download<a href="">Token</a></code></li> 
 
 # Subscribe 
 > Subscribe my channel
